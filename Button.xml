@@ -1,0 +1,16 @@
+<LinearLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="Vertical">
+
+<EditText
+android:id="tv_display"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="@string/hello"
+</EditText>
+
+<Button
+Android:id="btn_bold"
+/>
+</LinearLayout>
